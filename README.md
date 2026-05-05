@@ -2,7 +2,7 @@
 
 Application web Next.js pour la gestion financière personnelle et d'entreprise, conçue pour le marché congolais.
 
-![Mbongo Dashboard](https://via.placeholder.com/800x400/1E293B/3B82F6?text=Mbongo+Dashboard)
+![Mbongo Dashboard](public/image/dash.jpg)
 
 ## 🚀 Fonctionnalités
 

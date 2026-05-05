@@ -210,7 +210,7 @@ CMD ["npm", "start"]
 
 Pour toute question ou problème:
 - Créez une issue sur GitHub
-- Contactez le développeur
+- Contactez le développeur (vincent.salabanzi@gmail.com)
 
 ## 📄 Licence
 
@@ -218,4 +218,4 @@ MIT License - Voir fichier LICENSE
 
 ---
 
-Développé avec ❤️ pour le Congo 🇨🇬
+Développé par Vincent Gérard SALABANZI
